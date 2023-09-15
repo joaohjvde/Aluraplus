@@ -69,3 +69,11 @@ display: block;
 .container__botao {
   margin-bottom: 1em;
 }
+.secundario {
+  align-items: center;
+  margin: 0 10em;
+}
+
+.sevundario__imagem {
+  width: 80%;
+}
