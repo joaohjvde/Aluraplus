@@ -81,7 +81,7 @@ display: block;
 .descricao__titulo {
   font-weight: 700;
   font-size: 48px;
-  font-style: var(--branco-principal);
+  font-style: var(--botao-azul-efeito);
 margin-bottom: 0.1em;
 }
 
