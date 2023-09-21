@@ -93,12 +93,8 @@ darkgray;
 
 con
 
-.container__botao .secundario__botao {
-  background-color: var(--botao-azul);
-  border-radius: 1px;
-  padding: 1em;
-  color: var(--branco-principal);
-text-decoration: none;
-display: block;
+.secundario__botao {
+  display: inline-block;
+  margin-top: 1em;
 }
 
