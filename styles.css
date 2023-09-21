@@ -78,4 +78,15 @@ display: block;
   width: 80%;
 }
 
+.descricao__titulo {
+  font-weight: 700;
+  font-size: 48px;
+  font-style: var(--branco-principal);
+margin-bottom: 0.1em;
+}
+
+.descricao__texto {
+color: #242424;
+  line-height: 150%;
+}
 
