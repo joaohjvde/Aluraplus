@@ -81,7 +81,7 @@ display: block;
 .descricao__titulo {
   font-weight: 700;
   font-size: 48px;
-  font-style: var(--botao-azul-efeito);
+  color:blue;
 margin-bottom: 0.1em;
 }
 
