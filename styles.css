@@ -91,9 +91,11 @@ darkgray;
   line-height: 150%;
 }
 
-.container__botao q {
+con
+
+.container__botao .secundario__botao {
   background-color: var(--botao-azul);
-  border-radius: 5px;
+  border-radius: 1px;
   padding: 1em;
   color: var(--branco-principal);
 text-decoration: none;
