@@ -98,7 +98,7 @@ darkgray;
   margin-top: 1em;
 }
 
-.descricao__titulo {
+.container__titulo{
   font-weight: 700;
   font-size: 48px;
   color:rgb(255, 0, 0);
