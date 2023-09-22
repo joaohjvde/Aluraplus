@@ -98,3 +98,14 @@ darkgray;
   margin-top: 1em;
 }
 
+.descricao__titulo {
+  font-weight: 700;
+  font-size: 48px;
+  color:rgb(255, 0, 0);
+margin-bottom: 0.1em;
+}
+
+.descricao__texto {
+  color:
+  rgb(255, 255, 255);
+    line-height: 150%;}
