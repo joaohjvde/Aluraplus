@@ -110,3 +110,8 @@ margin-bottom: 0.1em;
   color:
   rgb(255, 255, 255);
     line-height: 150%;}
+
+        .dispositivos_lista {
+          display: flex;
+          justify-content: center;
+        }
