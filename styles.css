@@ -115,3 +115,8 @@ margin-bottom: 0.1em;
           display: flex;
           justify-content: center;
         }
+
+
+        .testo_de_alguma_coisa{
+          text-align: center;
+        }
